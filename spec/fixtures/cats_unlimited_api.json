@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Abyssin",
+    "price": 50,
+    "location": "Lviv",
+    "image": "https://test.image.jpg"
+  },
+  {
+    "name": "Abyssin",
+    "price": 60,
+    "location": "Lviv",
+    "image": "https://test.image.jpg"
+  },
+  {
+    "name": "American Curl",
+    "price": 20,
+    "location": "Kherson",
+    "image": "https://test.image.jpg"
+  }
+]

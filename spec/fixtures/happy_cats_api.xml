@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cats>
+  <cat>
+    <title>American Curl</title>
+    <cost>60</cost>
+    <location>Odessa</location>
+    <img>
+      https://test.image.jpg
+    </img>
+  </cat>
+  <cat>
+    <title>Bengal</title>
+    <cost>80</cost>
+    <location>Odessa</location>
+    <img>https://test.image.jpg</img>
+  </cat>
+  <cat>
+    <title>Bengal</title>
+    <cost>30</cost>
+    <location>Kyiv</location>
+    <img>https://test.image.jpg</img>
+  </cat>
+</cats>
